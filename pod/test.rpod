@@ -1,0 +1,31 @@
+=begin pod
+
+=NAME
+
+something
+
+=SYNOPSIS
+
+more stuff
+
+=begin item
+testing
+
+some I<stuff> lmao
+
+=end item
+
+=begin defn
+-a
+
+more I<stuff> here
+
+=end defn
+
+=begin SEE
+
+other stuff
+
+=end SEE
+
+=end pod
